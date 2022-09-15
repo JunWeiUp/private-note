@@ -1,0 +1,1 @@
+{"version":"c1fdafbd9377baf7","fileName":"clipboard_mananger.dart","fileSimpleName":"clipboard_mananger","fileType":"dart","notes":{"795":"图片uploaded"}}

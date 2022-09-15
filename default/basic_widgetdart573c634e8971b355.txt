@@ -1,0 +1,1 @@
+{"version":"573c634e8971b355","fileName":"basic_widget.dart","fileSimpleName":"basic_widget","fileType":"dart","notes":{"429":"page的根view"}}

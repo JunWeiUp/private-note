@@ -1,0 +1,1 @@
+{"version":"75c7639b7f9fffe5","fileName":"universal_image.dart","fileSimpleName":"universal_image","fileType":"dart","notes":{"199":"imageDrawSize"}}
